@@ -19,7 +19,7 @@ A powerful Discord Nuke tool &amp; Token Grabber Tool
 
 ## Requirements
 
-- **Windows OS** (Tested on Windows 10)
+- **Windows OS** (Tested on Windows 10 & Windows 11)
 - **Internet connection** (for license verification and Discord API access)
 - No need to install Python or any dependencies.
 
