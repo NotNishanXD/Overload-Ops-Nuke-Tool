@@ -29,7 +29,7 @@ A powerful Discord Nuke tool &amp; Token Grabber Tool
 
 You must have a valid license key to use this tool.  
 
-Contact the author to obtain a key.
+Current License Key: `Overload V3 Nuke`
 ---
 
 ## Disclaimer
